@@ -1,0 +1,11 @@
+# Xcode
+
+
+## tmp
+tmp/
+
+## delete thash
+*_old
+*._backup
+
+
